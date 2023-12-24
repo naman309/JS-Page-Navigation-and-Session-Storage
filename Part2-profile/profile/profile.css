@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    /* background-color: white; */
+    width: 800px;
+    /* margin: 0 auto; */
+    border: 3px solid rgb(97, 54, 89);;
+    padding: 0 2em 1em;
+    background: linear-gradient(90deg, rgb(233, 195, 236) 0%, rgb(72, 85, 99) 100%);
+    margin: 250px auto 0px;
+    border-radius: 20px;
+}
+h1 { 
+    font-size: 150%;
+    color: purple;
+    margin-bottom: .5em;
+}
+h2 {
+    font-size: 120%;
+    margin-bottom: .25em;
+}
+div {
+    margin-bottom: 1em;
+}
+label {
+    display: inline-block;
+    width: 8em;
+}
+input, select {
+    margin-left: 1em;
+    margin-right: 0.5em;
+}
+.message {
+    color: red;
+}
